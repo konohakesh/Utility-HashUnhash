@@ -1,9 +1,10 @@
 This API can be used to encrypt a file and then decrypt it.
 For example, this can be used to encrypt a file that has a lot of your passwords and then at the time of adding\retrieving a password, it can be used to decrypt it.
 
-If you don't want to modify the code, a runnable jar is ready and can be found in 'release' section.
+You can either modify it and re-use it for your own purpose.
+You can also find the executable in 'Release' tab and download the jar to use it directly out of the box.
 
-Usage:
+Usage-
 
 To encrypt a file:
 
