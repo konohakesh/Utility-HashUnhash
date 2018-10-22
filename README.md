@@ -1,3 +1,5 @@
+# Utility-HashUnhash
+
 This API can be used to encrypt a file and then decrypt it.
 For example, this can be used to encrypt a file that has a lot of your passwords and then at the time of adding\retrieving a password, it can be used to decrypt it.
 
