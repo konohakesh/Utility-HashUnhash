@@ -7,10 +7,10 @@ Usage:
 
 To encrypt a file:
 
-HashUnhash.jar <path to the file> close
+HashUnhash.jar path-to-the-file close
 
 
 To decrypt a file:
 
-HashUnhash.jar <path to the file> open
+HashUnhash.jar path-to-the-file open
 
